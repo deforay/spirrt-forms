@@ -1,0 +1,16 @@
+syntax: regexp
+^.*\.idea$
+^.*\.pid$
+^.*\.log$
+
+syntax: glob
+
+Thumbs.db
+Thumbs.db.orig
+.DS_Store
+.DS_Store.orig
+.git
+.idea
+.git/*
+.gitattributes
+.gitignore

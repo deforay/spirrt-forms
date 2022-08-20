@@ -1,0 +1,22 @@
+Changed - 2.4 Old Version.
+5/22/2016 - Added image for yes/no/partial
+5/22/2016 - Fixed bug for corrective action section number. 
+7/1/2016 - PT Translation
+7/1/2016 - Three minor correction Correnction (Documents and Record, Picture take)
+Translation:
+Region/Province >
+Portgase Região / Província
+spanish Región / Provincia
+District
+Portgase Distrito
+spanish Distrito
+Name of Tester 1
+Portgase Nome do testador 1
+spanish Nombre del probador 1
+Name of Tester 2
+Portgase  Nome do testador 2
+spanish Nombre del probador 2
+
+cHANGE fRENCG iMAGE FILE
+aDDED NEW TEST TYPE
+change testing point master value
